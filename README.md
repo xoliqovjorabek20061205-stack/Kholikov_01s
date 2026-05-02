@@ -1,1 +1,2 @@
-# Kholikov_01s
+# Pandas
+Pandasda nan qiymatlar bilan ishlash(dropna)
